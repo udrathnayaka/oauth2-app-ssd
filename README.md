@@ -2,7 +2,7 @@
 
 ##### A web application that consumes the service of an OAuth Authorization Server and an OAuth Resource Server.
 
-Find the Blog post [here.]()
+Find the Blog post [here.](https://medium.com/@rathnayakar07/oauth-2-0-an-overview-and-simple-guide-to-build-an-sample-application-cad9074780ff)
 
 01. Create the credentials.
 02. Download the JSON and copy it to the authcredsecret folder.
