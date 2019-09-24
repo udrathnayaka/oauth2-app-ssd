@@ -11,3 +11,5 @@ Find the Blog post [here.]()
 05. Run the UploaderApplication.java
 06. Go to localhost:8080
 07. Sign in with the Gmail account that uses Google Drive.
+08. Allow permissions.
+09. Browse and Upload the files.
